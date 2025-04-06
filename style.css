@@ -4,6 +4,7 @@ body {
   color: black;
   font-family: craft;
 }
+body{background-image: url(images/smilebg.png)}
 div {
   border-style: dotted;
   border-color: #cda400;
